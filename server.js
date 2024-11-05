@@ -3,9 +3,9 @@ WEB322 – Assignment 02
 I declare that this assignment is my own work in accordance with Seneca Academic Policy.
 No part of this assignment has been copied manually or electronically from any other source (including 3rd party web sites) or
 distributed to other students.
-Name: Min ThuKha
-Student ID: 164144222
-Date: 12th October 2024
+Name: S M Abdullah
+Student ID: 131615239
+Date: 4th Nov 2024
 Vercel Web App URL: https://web322-app-zeta-liard.vercel.app/
 GitHub Repository URL: https://github.com/Princeingh/WEB322-app.git
 ********************************************************************************/
@@ -18,9 +18,9 @@ const cloudinary = require("cloudinary").v2;
 const streamifier = require("streamifier");
 
 cloudinary.config({
-  cloud_name: "doqog4kps",
-  api_key: "346318215228989",
-  api_secret: "b22URZRRfG2MY_KkBVK7Y-YEnaU",
+  cloud_name: "dzqdbbjwq",
+  api_key: "122471357755742",
+  api_secret: "YrRt_JZ1MpzH2uALxtyqvA0cIiw",
   secure: true,
 });
 
